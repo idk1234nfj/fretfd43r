@@ -12,6 +12,7 @@
     "@metamask/detect-provider": "^2.0.0",
     "chart.js": "^4.4.7",
     "ethers": "^6.13.4",
+    "@vercel/analytics": "^1.4.1",
     "next": "15.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
