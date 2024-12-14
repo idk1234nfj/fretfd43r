@@ -30,6 +30,7 @@ export default function RootLayout({
       <body className="bg-white"
       >
         {children}
+        <Analytics />
       </body>
     </html>
   );
